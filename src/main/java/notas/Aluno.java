@@ -1,4 +1,4 @@
-package Notas;
+package notas;
 
 public class Aluno {
 
